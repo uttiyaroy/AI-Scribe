@@ -1,0 +1,8 @@
+google-genai
+streamlit
+textstat
+jinja2
+beautifulsoup4
+requests
+nltk
+

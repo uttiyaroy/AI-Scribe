@@ -31,7 +31,7 @@ Install Dependencies:
   ````bash pip install -r requirements.txt````
 
 Run Locally:
-  ````bash streamlit run app.py````
+  ````bash streamlit run article_writer.py````
 
 Open your browser to ````http://localhost:8501```` and enter your Gemini API key when prompted.
 

@@ -56,4 +56,26 @@ Run the app locally or access the deployed version (see Deployment section).
 
 * View the HTML article in the browser and download the generated .html file from the app directory.
 
+## Contributing
+Contributions are welcome! Please:
+* Fork the repository.
+
+* Create a feature branch (git checkout -b feature/your-feature).
+
+* Commit your changes (git commit -m "Add your feature").
+
+* Push to the branch (git push origin feature/your-feature).
+
+* Open a Pull Request.
+
+## License
+This is offered under a GPL 3.0 license
+
+## Acknowledgments
+* Built with Streamlit and Google Gemini API.
+* Thanks to the open-source community for inspiration and tools.
+
+
+
+
 
